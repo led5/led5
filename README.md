@@ -20,6 +20,6 @@ trying to write a good line into one of my four novels.
 ```
 In the spirit of Halloween...
 - Will My Cat Eat My Eyeballs When I Die? by Caitlin Doughty ✅
-- Frankenstein by Mary Shelly 
+- Frankenstein by Mary Shelley (Re-read)
 - Pride and Prejudice and Zombies by Seth Grahame-Smith
 ```
