@@ -18,5 +18,8 @@ trying to write a good line into one of my four novels.
 ### 📚 Currently Reading
 
 ```
-Will My Cat Eat My Eyeballs When I Die? by Caitlin Doughty
+In the spirit of Halloween...
+- Will My Cat Eat My Eyeballs When I Die? by Caitlin Doughty ✅
+- Frankenstein by Mary Shelly 
+- Pride and Prejudice and Zombies by Seth Grahame-Smith
 ```
