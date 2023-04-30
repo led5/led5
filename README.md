@@ -1,7 +1,7 @@
 # Introduction
 
 ```
-Hello, my name's Dalena. I am a Backend Software Engineer based in the Seattle area. 
+Hello, my name's Dalena. I am a Software Engineer based in the Seattle area. 
 In my free time, I moonlight as a book dragon and much like when I am programming, I am 
 trying to write a good line into one of my four novels.
 ```
